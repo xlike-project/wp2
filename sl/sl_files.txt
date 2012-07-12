@@ -1,0 +1,6 @@
+http://ailab.ijs.si/~tadej/slner.zip
+http://oznacevalnik.slovenscina.eu/Media/LemmatizerTrain/ObeliksLatest.zip
+http://oznacevalnik.slovenscina.eu/Media/PosTaggerTrain/ObeliksLatest.zip
+http://oznacevalnik.slovenscina.eu/Media/PosTaggerTrain/TaggerModel.bin.zip
+http://oznacevalnik.slovenscina.eu/Media/PosTaggerTrain/SloveneLexicon.txt.zip
+http://oznacevalnik.slovenscina.eu/Media/LemmatizerTrain/LemmatizerModel.bin.zip
