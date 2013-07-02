@@ -1,3 +1,0 @@
-http://lt.ffzg.hr/wp2/classifiers.zip
-http://lt.ffzg.hr/wp2/models.zip
-http://lt.ffzg.hr/wp2/lib.zip
